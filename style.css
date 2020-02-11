@@ -1,5 +1,5 @@
 body {
-	background-color: #f8fcff;
+	background-color: rgb(250,250,250);
 	font-family: Helvetica;
 	font-size: 15px;
 	font-color: black;
@@ -55,14 +55,14 @@ a:hover {
 }
 
 .btn-blue {
-	background-color: #ffd57b;
+	background-color: #fcbe38;
 	color: white;
 	padding: 12px 20px;
 	border-radius: 4px;
 }
 
 .btn-blue:hover {
-	background-color: #fcbe38;
+	background-color: #ffd57b;
 	color: white;
 }
 
